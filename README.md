@@ -13,7 +13,7 @@ O jogo pede que jogador escolha entre quatro opções: "pedra", "papel", "tesour
 
 ## ⚙ Como utilizar
 
-Após baixa o arquivo e com o Python instalado, basta executar o seguinte comando na pasta que contém o arquivo:
+Com o Python 3 instalado, basta baixar o arquivo .zip, extraí-lo para uma pasta, abrir o terminal na pasta e executar o seguinte comando:
 ```
 python '.\jokenpo infinity.py'
 ```
